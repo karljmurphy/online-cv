@@ -17,7 +17,7 @@ sidebar:
     phone: +353 86 170 4427
     timezone: GMT
     citizenship: Irish
-    linkedin: alandoe
+    linkedin: https://www.linkedin.com/in/karljmurphy/
 
     languages:
       title: Languages
@@ -28,13 +28,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Fitness / Gym
           link:
 
-        - item: Snowboarding
+        - item: Travel
           link:
 
-        - item: Cooking
+        - item: Music
           link:
 
 career-profile:
