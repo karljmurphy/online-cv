@@ -8,8 +8,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Karl Murphy
+    tagline: Experienced Python developer with a passion for learning and a zest for solving
+      complex problems. Proven self-starter with excellent communication skills
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
