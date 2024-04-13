@@ -121,7 +121,7 @@ experiences:
             - Development of partnerships with other
               companies to help fulfill their training needs.
       - role: Python Developer
-        time: 2012 - 2014
+        time: 2016 - 2019
         company: Bloomberg Polarlake, Dublin
         details: |
             - Liaised with clients to understand and develop
@@ -133,6 +133,30 @@ experiences:
               Python to connect to Java microservices via REST APIs.
             - Identified possible system enhancements to improving 
               functionality and streamline administration.
+      - role: Python Developer
+        time: 2013 - 2016
+        company: Ericsson, Athlone
+        details: |
+            - Worked independently to design, develop and
+              test code to build Python plugins for Linux
+              based telecoms platform.
+            - Engineered software within agile environment
+              and implemented initiatives to streamline CI /
+              CD processes.
+            - Debugging issues in dev-ops environment:
+              Python, Linux and Jenkins etc.
+     - role: Stockbroker
+        time: 2008 - 2011
+        company: Renaissance Financial Markets, Dublin
+        details: |
+            - Assessed market conditions to look for short &
+              long term trading opportunities.
+            - Created daily market recaps and profit and loss
+              information for clients.
+            - Developed business partnership with Saxo Bank
+              (global brand in online retail trading platforms)
+              and launched white labeled version of their
+              product in Irish market.
 
 certifications:
       title: Certifications
