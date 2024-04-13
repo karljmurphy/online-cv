@@ -26,15 +26,27 @@ sidebar:
           level: Native
 
     interests:
-      title: Interests
+      title: Skills
       info:
-        - item: Fitness / Gym
+        - item: Python (along with
+                practical knowledge of
+                Python libraries such as
+                Numpy & Pandas)
           link:
 
-        - item: Travel
+        - item: Data engineering
           link:
 
-        - item: Music
+        - item: Data science
+          link:
+
+        - item: Microsoft Azure
+          link:
+
+        - item: Spark
+          link:
+
+        - item: Git
           link:
 
 career-profile:
@@ -200,24 +212,4 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
