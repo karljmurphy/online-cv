@@ -97,7 +97,7 @@ experiences:
     info:
       - role: Python developer [Contract]
         time: 2022 - Present
-        company: Startup Hubs, San Francisco
+        company: Optum (UnitedHealth Group), Dublin
         details: |
             - Migrated key business data pipelines from
               on-prem to cloud based solution (MS Azure).
