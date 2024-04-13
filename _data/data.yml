@@ -145,7 +145,7 @@ experiences:
               CD processes.
             - Debugging issues in dev-ops environment:
               Python, Linux and Jenkins etc.
-     - role: Stockbroker
+      - role: Stockbroker
         time: 2008 - 2011
         company: Renaissance Financial Markets, Dublin
         details: |
