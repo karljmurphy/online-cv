@@ -100,36 +100,39 @@ experiences:
         company: Optum (UnitedHealth Group), Dublin
         details: |
             - Migrated key business data pipelines from
-              on-prem to cloud based solution (MS Azure).
+              on-prem to a cloud based solution (MS Azure).
             - Architected design processes in tandem with
               requirements gathering & analysis from internal clients.
+            - Proposed and implemented strategic initiatives to reduce costs.
             - Created automated testing solutions to
               validate quality of migrated pipelines.
             - Mentored and taught team Python on weekly
               basis.
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Director
+        time: 2015 - 2023
+        company: Zazen Academy of Technology, Dublin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+            - Tutored clients in subjects such as Python, Java
+              & Data Structures / Algorithms.
+            - Implemented marketing initiatives to drive sales
+              among select target audiences - 3rd level
+              students and IT professionals.
+            - Development of partnerships with other
+              companies to help fulfill their training needs.
+      - role: Python Developer
         time: 2012 - 2014
-        company: Amazon, London
+        company: Bloomberg Polarlake, Dublin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Liaised with clients to understand and develop
+              requirements for feature development.
+            - Data engineering: preprocessing / cleaning of
+              clients' inputs with Python libraries such as Pandas.
+            - Debugging applications to ensure low-latency.
+            - Configuration of custom client solutions using
+              Python to connect to Java microservices via REST APIs.
+            - Identified possible system enhancements to improving 
+              functionality and streamline administration.
 
 certifications:
       title: Certifications
