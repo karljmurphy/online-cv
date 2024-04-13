@@ -192,5 +192,35 @@ certifications:
           credentialname:
           details: |
 
+        - name: Neural Networks and Deep Learning
+
+          start: 
+          end: 2019
+          organization: Coursera
+          credentialid: 
+          credentialurl: 
+          credentialname:
+          details: |
+
+        - name: Ericsson Certified - IP Technology 102
+
+          start: 
+          end: 2014
+          organization: Ericsson
+          credentialid: 
+          credentialurl: 
+          credentialname:
+          details: |
+
+        - name: Oracle Professional Java 6 Developer
+
+          start: 
+          end: 2013
+          organization: Oracle
+          credentialid: 
+          credentialurl: 
+          credentialname:
+          details: |
+
 
 
