@@ -75,7 +75,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Python developer [Contract]
+      - role: Python developer
         time: 2022 - Present
         company: Optum (UnitedHealth Group), Dublin
         details: |
@@ -86,7 +86,7 @@ experiences:
               requirements gathering & analysis from internal clients.
             - Proposed and implemented strategic initiatives to reduce costs.
             - Created automated testing solutions to
-              validate quality of migrated pipelines.
+              validate quality of data pipelines.
             - Mentored and taught team Python on weekly
               basis.
 
