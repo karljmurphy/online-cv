@@ -92,17 +92,6 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc Business And Economics
-        university: Trinity College Dublin
-        time: 2000
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
 
 experiences:
     title: Experience
@@ -111,8 +100,9 @@ experiences:
         time: 2022 - Present
         company: Optum (UnitedHealth Group), Dublin
         details: |
-            - Led team that successfully migrated key business data pipelines from
+            - Migrated key business data pipelines from
               on-prem to a cloud based solution (MS Azure).
+            - Optimized data pipelines to reduce compute costs and turnaround times.
             - Architected design processes in tandem with
               requirements gathering & analysis from internal clients.
             - Proposed and implemented strategic initiatives to reduce costs.
