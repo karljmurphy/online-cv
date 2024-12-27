@@ -63,28 +63,14 @@ education:
         university: Dublin City University
         time: 2021
         result: 1.1
-      - degree: MSc in Applied Software Development [2.1]
+      - degree: MSc in Applied Software Development
         university: Dublin Institute of Technology
         time: 2013
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        result: 2.1
       - degree: Higher Diploma in Computing [1.1]
         university: Griffith College Dublin
         time: 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        result: 1.1
 
 experiences:
     title: Experience
