@@ -59,10 +59,10 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Artificial Intelligence
+      - degree: MSc in Artificial Intelligence [1.1]
         university: Dublin City University
         time: 2021
-        details: 
+        details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -70,7 +70,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: MSc in Applied Software Development
+      - degree: MSc in Applied Software Development [2.1]
         university: Dublin Institute of Technology
         time: 2013
         details: |
@@ -81,7 +81,7 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: Higher Diploma in Computing
+      - degree: Higher Diploma in Computing [1.1]
         university: Griffith College Dublin
         time: 2012
         details: |
