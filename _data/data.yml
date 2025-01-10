@@ -80,16 +80,10 @@ experiences:
         time: 2022 - Present
         company: Optum (UnitedHealth Group), Dublin
         details: |
-            - Migrated key business data pipelines from
-              on-prem to a cloud based solution (MS Azure).
-            - Optimized data pipelines to reduce compute costs and turnaround times.
-            - Architected design processes in tandem with
-              requirements gathering & analysis from internal clients.
-            - Proposed and implemented strategic initiatives to reduce costs.
-            - Created automated testing solutions to
-              validate quality of data pipelines.
-            - Mentored and taught team Python on weekly
-              basis.
+            - Spearheaded the migration of critical business data pipelines from on-premises infrastructure to Microsoft Azure, enhancing scalability and reducing downtime.
+            - Optimized data pipeline performance using Python and Azure services, reducing compute costs and decreasing data processing times.
+            - Initiated and implemented strategic cost-reduction initiatives such as the life cycle management of cloud storage, achieving annual savings of $100k.
+            - Conducted weekly Python training sessions, mentoring 15 team members and increasing overall team proficiency, which contributed to improvements in project delivery times.
 
       - role: Director
         time: 2015 - 2023
