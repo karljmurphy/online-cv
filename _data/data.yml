@@ -76,7 +76,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Python developer
+      - role: Python developer and data engineer
         time: 2022 - Present
         company: Optum (UnitedHealth Group), Dublin
         details: |
